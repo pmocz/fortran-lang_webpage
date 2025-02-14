@@ -1301,12 +1301,12 @@
   version: 1.0.4
 
 - name: MESA
-  url: http://mesa.sourceforge.net/
+  github: MESAHub/mesa
   description: Modules for Experiments in Stellar Astrophysics
   categories: scientific
   tags: stellar astrophysics
-  license: GPL-2
-  version: 15140
+  license: LGPL-2.1
+  version: 24.08.1
 
 - name: Wannier90
   github: wannier-developers/wannier90
